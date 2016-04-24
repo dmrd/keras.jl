@@ -1,5 +1,6 @@
 module Keras
 
-# package code goes here
+include("./wrapper.jl")
+include("./utils.jl")
 
 end # module
